@@ -3,6 +3,7 @@ $WindowsCred = New-Object System.Management.Automation.PSCredential ('masoud', $
 
 
 
+
 $vmParams = @{
     ResourceGroupName = ' itrepo-rg'
     Name = ' itrepo-win-2'
